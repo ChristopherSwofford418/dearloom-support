@@ -1,0 +1,37 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {
+    "MANUS_WEBDEV_PROJECT_ID": "o66ENEVK54QtdAR3uuCow8"
+  },
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/o66ENEVK54QtdAR3uuCow8.git",
+    "expiration": "2026-09-28T19:07:27.371Z",
+    "token": "art_v2_x_0185fccd3aa918e996f0120118f50a2c837a2c33?expires=1790622447",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "dearloom-support",
+  "path": "/home/ubuntu/dearloom-support",
+  "port": 3000,
+  "runtime_endpoints": null,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "V67p7X9wigVELRH7Xe3zFC",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "mCdvcHCSU8wHzDxD6WHsQA",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Christopher Swofford",
+    "OWNER_OPEN_ID": "9eZE9xnMnWUB7s9CHRKFG4",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "79cee7f2-26d1-432f-90e5-4a7876226f75",
+    "VITE_APP_ID": "o66ENEVK54QtdAR3uuCow8",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Private Love Message: Dearloom Support",
+    "VITE_FRONTEND_FORGE_API_KEY": "gRdv599KkXXjo7VN6X7dfS",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
